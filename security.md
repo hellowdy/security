@@ -1,4 +1,24 @@
 # Proposition de sécurisation d'une application 
+    - [Introduction :](#introduction-)
+      - [Que veut dire sécuriser un système ?](#que-veut-dire-sécuriser-un-système-)
+      - [Contre quoi doit-on se sécuriser ?](#contre-quoi-doit-on-se-sécuriser-)
+      - [Comment sécuriser un système ?](#comment-sécuriser-un-système-)
+    - [Les stratégies générales de la sécurisation :](#les-stratégies-générales-de-la-sécurisation-)
+    - [Les protocoles de protection de l'échange de données](#les-protocoles-de-protection-de-léchange-de-données)
+      - [Hachage, salage](#hachage-salage)
+      - [Protection du navigateur](#protection-du-navigateur)
+      - [Politique des mots de passes](#politique-des-mots-de-passes)
+      - [La sanitisation](#la-sanitisation)
+      - [Quelle est la différence entre Authentification et Autorisation ?](#quelle-est-la-différence-entre-authentification-et-autorisation-)
+      - [L’accès aux données](#laccès-aux-données)
+      - [Token](#token)
+      - [La session](#la-session)
+      - [La sécurisation de l'API](#la-sécurisation-de-lapi)
+      - [La journalisation](#la-journalisation)
+      - [La stratégie de sauvegarde de serveur](#la-stratégie-de-sauvegarde-de-serveur)
+      - [Dernière étapes de l'application](#dernière-étapes-de-lapplication)
+      - [Sources](#sources)
+
 
 ### Introduction :
 In documentation, we go speak the security the application. We go have how  do and why ?
